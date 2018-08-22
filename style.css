@@ -1,0 +1,35 @@
+.container{
+    margin-top: 15%;
+    border-radius: 9px;
+    background-color: #f0ede5;
+}
+#white-div{
+    background-color: #6b5b95;
+    padding: 25px;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    color: #ffffff;
+}
+#input-div{
+    margin-top: 10px;
+    padding-top:25px;
+    padding-bottom: 25px;
+}
+#input-div > h2, #white-div > h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+label{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+#forgot-link{
+    font-size: 17px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.same-font{
+    font-family: 'Poppins', sans-serif;
+}
