@@ -1,3 +1,6 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
 .container{
     margin-top: 15%;
     border-radius: 9px;
@@ -32,4 +35,10 @@ label{
 }
 .same-font{
     font-family: 'Poppins', sans-serif;
+}
+.alert-span{
+    float: left;
+}
+.hide{
+    display: none;
 }
